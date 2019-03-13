@@ -18,8 +18,8 @@ DeviceAddress sensor1 = {0x28, 0x71, 0xEE, 0x79, 0x97, 0x11, 0x3, 0x6A};
 
 
 // Replace the next variables with your SSID/Password combination
-const char* ssid = "TheMansion";
-const char* password = "K3whiadL";
+const char* ssid = "yourSSID";
+const char* password = "password";
 
 // Add your MQTT Broker IP address, example:
 //const char* mqtt_server = "192.168.1.144";
