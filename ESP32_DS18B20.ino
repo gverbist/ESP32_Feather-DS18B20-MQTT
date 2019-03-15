@@ -1,6 +1,6 @@
 /*********
-  Rui Santos
-  Complete project details at https://randomnerdtutorials.com  
+  Original by Rui Santos - Modified by Geert Verbist
+    
 *********/
 
 #include <WiFi.h>
